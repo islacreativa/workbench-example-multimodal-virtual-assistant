@@ -32,7 +32,7 @@ from chatui.utils import compile, database, logger
 from langgraph.graph import END, StateGraph
 
 PATH = "/"
-TITLE = "NVIDIA AI Workbench Virtual Assistant"
+TITLE = "DELL NVIDIA AI Workbench Virtual Assistant"
 OUTPUT_TOKENS = 250
 MAX_DOCS = 5
 
